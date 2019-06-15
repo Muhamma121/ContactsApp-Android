@@ -1,0 +1,5 @@
+Roman Nurik, ic_launcher.png, https://github.com/romannurik/AndroidAssetStudio
+
+logo.png, https://logomakr.com
+
+contact.png, https://www.iconfinder.com/icons/211605/contact_icon, MIT license
